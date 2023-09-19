@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 5d68ac30-d6c2-46e5-97fb-7c90fd68540f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 957019e6-08c0-4070-b8a4-0d37998d6884
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: a4dbd478-faa1-404c-aeb6-4e6f9d3165a7
+  name: Online Textbook
+  pageRef: /pages/online-textbook
+  weight: 30
+- identifier: 2e0a9610-b5d1-4acf-96d5-f109004f312b
+  name: Coding Labs
+  pageRef: /pages/coding-labs
+  weight: 40
+- identifier: 7b9bf0d6-7458-4030-a9a2-c5d604c7559d
+  name: Problem Sets
+  pageRef: /pages/problem-sets
+  weight: 50
